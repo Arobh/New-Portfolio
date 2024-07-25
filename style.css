@@ -1,0 +1,11 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+}
+body{
+    background-color: #dfdbdb;
+}
+.skills-icon,
+.hobbies-icon, .resume-icon {
+  color: rgba(46, 169, 240, 0.89);
+}
